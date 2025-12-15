@@ -7,7 +7,7 @@
 
 html {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #ffffff;
+    background-color: #D2A341;
     color: #333333;
     line-height: 1.6;
 }
@@ -475,4 +475,5 @@ footer p {
     #contacts {
         padding: 60px 20px;
     }
+
 }
